@@ -6,14 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/HeartOfIrons/delta?style=social)](https://github.com/HeartOfIrons/delta/stargazers)
 [![Forks](https://img.shields.io/github/forks/HeartOfIrons/delta?style=social)](https://github.com/HeartOfIrons/delta/network/members)
 
-## Table of Contents
-- [About Delta](#about-delta)
-- [Features](#features)
-- [Contribution](#contribution)
-- [License](#license)
-- [Technologies](#technologies)
-- [Contact Information](#contact-information)
-
+## Information
 <details>
   <summary>About Delta</summary>
 
