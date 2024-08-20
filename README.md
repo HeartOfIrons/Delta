@@ -24,7 +24,7 @@
 
   1. **Fork the repository**:
      ```bash
-     git clone https://github.com/yourusername/delta.git
+     git clone https://github.com/HeartOfIrons/delta.git
      cd delta
      ```
   2. **Create a new branch**:
