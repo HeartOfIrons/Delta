@@ -1,5 +1,19 @@
 # Delta <img src="Assets/Delta.png" alt="Delta Logo" width="30" height="30">
 
+[![Build Status](https://img.shields.io/github/actions/workflow/status/HeartOfIrons/delta/ci.yml)](https://github.com/HeartOfIrons/delta/actions)
+[![Version](https://img.shields.io/github/v/release/HeartOfIrons/delta)](https://github.com/HeartOfIrons/delta/releases)
+[![License](https://img.shields.io/github/license/HeartOfIrons/delta)](https://github.com/HeartOfIrons/delta/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/HeartOfIrons/delta?style=social)](https://github.com/HeartOfIrons/delta/stargazers)
+[![Forks](https://img.shields.io/github/forks/HeartOfIrons/delta?style=social)](https://github.com/HeartOfIrons/delta/network/members)
+
+## Table of Contents
+- [About Delta](#about-delta)
+- [Features](#features)
+- [Contribution](#contribution)
+- [License](#license)
+- [Technologies](#technologies)
+- [Contact Information](#contact-information)
+
 <details>
   <summary>About Delta</summary>
 
@@ -65,4 +79,5 @@
   For business inquiries, questions, or feedback, please contact our team at [ecotech.inq@gmail.com](mailto:ecotech.inq@gmail.com).
 
 </details>
+
 
