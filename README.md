@@ -1,4 +1,4 @@
-## Delta <img src="Assets/Delta.png" alt="Delta Logo" width="15" height="15">
+<img src="Assets/Delta.png" alt="Delta Logo" width="30" height="30"> ## Delta
 ---
 Delta is an AI chat application, primarily known for being open sourced and easy to use.
 
