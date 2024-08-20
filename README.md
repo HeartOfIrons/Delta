@@ -4,14 +4,17 @@ Delta is an AI chat application, primarily known for being open sourced and easy
 
 <details>
   <summary>License</summary>
-  Distrubted under the MIT (Massachusetts Institute of Technology) license.
-  See LICENSE (file) for more information.
-  <summary>Technologies</summary>
-
-  **Frontend** *(Specified as "Frontend")*: React.js
-
-  **Backend** *(Specified as "Backend")*: Node.js
+  Distributed under the MIT (Massachusetts Institute of Technology) license.
+  See the [LICENSE](LICENSE) file for more information.
 </details>
+
+<details>
+  <summary>Technologies</summary>
+  **Frontend**: React.js
+
+  **Backend**: Node.js
+</details>
+
 
 ## Contact
 ---
