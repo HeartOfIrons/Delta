@@ -24,7 +24,7 @@
   We welcome contribution towards Delta. If you'd like to contribute, you can follow these steps!
 
   1. Fork the repository (Delta)
-  2. Create a new branch for your feature or bug fix;
+  2. Create a new branch for your feature or bug fix.
   ```bash
   git checkout -b feature/your-feature
   ```
@@ -33,7 +33,7 @@
   git add .
   git commit -m "CommitMessage"
   ```
-  4. Push to the branch
+  4. Push to the branch.
   ```bash
   git push origin feature/your-feature
   ```
