@@ -1,5 +1,4 @@
 # Delta <img src="Assets/Delta.png" alt="Delta Logo" width="30" height="30">
----
 <details>
   <summary>About Delta</summary>
 
