@@ -1,8 +1,13 @@
 # Delta <img src="Assets/Delta.png" alt="Delta Logo" width="30" height="30">
 ---
-Delta is an Open-Sourced Artificial Intelligence chat application designed to be user-friendly.
+<details>
+  <summary>About Delta</summary>
 
-It provides a platform for interactive conversations, with a focus on simplicity and functionality while keeping a modern look.
+  **Delta** is an *Open-Sourced Artificial Intelligence* chat application designed to be user-friendly.
+
+  It provides a platform for interactive conversations, with a focus on simplicity and functionality while keeping a modern look.
+
+</details>
 
 <details>
   <summary>Features</summary>
