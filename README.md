@@ -15,8 +15,8 @@ Delta is an AI chat application, primarily known for being open sourced and easy
 
   **Backend**: Node.js
 </details>
+<details>
+  <summary>Contact Information</summary>
 
-
-## Contact
----
-For business inquiries, questions, or feedback, please contact our team at ecotech.inq@gmail.com.
+  For business inquiries, questions, or feedback, please contact our team at ecotech.inq@gmail.com.
+</details>
