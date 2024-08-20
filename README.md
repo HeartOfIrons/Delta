@@ -19,9 +19,34 @@
 </details>
 
 <details>
+  <summary>Contribution</summary>
+
+  We welcome contribution towards Delta. If you'd like to contribute, you can follow these steps!
+
+  1. Fork the repository (Delta)
+  2. Create a new branch for your feature or bug fix;
+  ```bash
+  git checkout -b feature/your-feature
+  ```
+  3. Make your changes and commit.
+  ```bash
+  git add .
+  git commit -m "CommitMessage"
+  ```
+  4. Push to the branch
+  ```bash
+  git push origin feature/your-feature
+  ```
+  5. Open a pull request with a clear description of the changes and why they are being made. If a pull request isn't made, it will be denied.
+
+</details>
+
+<details>
   <summary>License</summary>
+
   Distributed under the MIT (Massachusetts Institute of Technology) license.
   See the LICENSE file for more information.
+
 </details>
 
 <details>
@@ -30,9 +55,11 @@
   **Frontend**: React.js
 
   **Backend**: Node.js
+
 </details>
 <details>
   <summary>Contact Information</summary>
 
   For business inquiries, questions, or feedback, please contact our team at ecotech.inq@gmail.com.
+
 </details>
