@@ -10,6 +10,7 @@ See LICENSE (file) for more information.
 ## Technologies
 ---
 Frontend (Specified as "Frontend"): React.js
+
 Backend (Specified as "Backend"): Node.js
 
 ## Contact
